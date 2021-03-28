@@ -1,6 +1,6 @@
 <?php 
 
-namespace Http;
+namespace Chipslays\Http;
 
 class Response 
 {

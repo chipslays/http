@@ -1,6 +1,6 @@
 <?php 
 
-namespace Http;
+namespace Chipslays\Http;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Cookie\FileCookieJar;
